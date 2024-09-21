@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 5vw;
+  }
+  
+  header {
+    text-align: left;
+  }
+
+  header p{
+    padding-bottom: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, h3{
+    margin: 0 2;
+    color: midnightblue;
+  }
+  
+  ul {
+    list-style: disc;
+    color: midnightblue;
+    padding: 1;
+  }
+
+  li {
+    padding-bottom: .5rem;
+  }
+  
+  .job, .degree, .project {
+    border: 1px solid midnightblue;
+    padding: 10px;
+    /* background-color: rgb(86, 159, 204); */
+  }
+
+  span{
+    color: midnightblue ;
+    font-weight: 700;
+  }
